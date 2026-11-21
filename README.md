@@ -5,6 +5,7 @@ Multiple versions (basic, normal, excessive, social media editon),
 the actual thing,
 maybe some command line tweaks
 
-NOT WRITTEN WITH AI HELP
-
-Turned out to be a lot easier
+Steps:
+Open up the terminal
+Type: <chmod +x ubuntu_additions_your_version_here.sh>
+Then: <./ubuntu_additions_your_version_here.sh> (the <> is just there to signal what you need to type, same with the your_version_here)
