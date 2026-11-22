@@ -1,5 +1,5 @@
 # ubuntu_additions
-A script that installs applications for you using APT.
+A script that installs applications for you using APT and Flatpak (This script also installs it).
 Coming soon:
 Multiple versions (basic, normal, AIO (All In One), social media editon),
 the actual thing,
