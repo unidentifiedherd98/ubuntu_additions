@@ -5,7 +5,7 @@ sudo apt update -y
 sudo apt upgrade -y
 
 # Installs the main applications
-sudo apt install -y git curl vim vlc flatpak fastfetch htop git curl gimp nmap python3-pip gnome-tweaks synaptic
+sudo apt install -y git curl vim vlc flatpak fastfetch htop git gimp nmap python3-pip gnome-tweaks synaptic
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 flatpak install -y flathub io.github.kolunmi.Bazaar
 
