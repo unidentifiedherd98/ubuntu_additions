@@ -16,4 +16,10 @@ flatpak install -y flathub app.zen_browser.zen
 curl -f https://zed.dev/install.sh | sh
 
 # Installs Discord
-sudo snap install discord
+sudo snap install -y discord
+
+# Installs the ArtCraft Suite
+sudo apt install -y ./artcraft-launcher-*-linux-x86_64.deb
+
+# Installs PrusaSlicer
+flatpak install -y flathub-beta com.prusa3d.PrusaSlicer
