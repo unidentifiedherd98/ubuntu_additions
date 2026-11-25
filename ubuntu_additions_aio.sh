@@ -11,3 +11,9 @@ flatpak install -y flathub io.github.kolunmi.Bazaar
 
 # Installs my favorite browser, Zen
 flatpak install -y flathub app.zen_browser.zen
+
+# Installs the Zed text editor
+curl -f https://zed.dev/install.sh | sh
+
+# Installs Discord
+sudo snap install discord
